@@ -24,8 +24,8 @@ This workshop starts with a short introduction into the subject matter in form o
 1. Break (5min)
 1. Init package.json (5min)
 1. Add/update/remove packages (15min)
-1. node_modules, package-lock.json
-1. npm, yarn
+1. node_modules, package-lock.json (5 min)
+1. npm, yarn (5 min)
 
 
 ## Disclaimer
