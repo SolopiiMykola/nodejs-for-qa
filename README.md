@@ -27,6 +27,9 @@ This workshop starts with a short introduction into the subject matter in form o
 1. node_modules, package-lock.json (5 min)
 1. npm, yarn (5 min)
 
+## Slides 🖥
+
+[Node.JS Presentation]: https://docs.google.com/presentation/d/1urqsBWoN5hfjtfnvYctL7II_p7_uzZwaxWPbF0GlxcY/edit?usp=sharing
 
 ## Disclaimer
 All code and command examples assume that you are using a MacBook. Usually they should also work on a PowerShell on Windows. For anyone who has problems running certain things with Windows please create an issue or provide a PR (see below).
