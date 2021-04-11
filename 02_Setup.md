@@ -19,7 +19,7 @@
     function sayHelloToNode(name) {
         console.log('Hello Node, my name is ' + name);
         };
-    sayHelloToNode('Mykola');```
+    sayHelloToNode('Mykola');
 17. Run **node app.js** command in terminal
 18. Type ```console.log(window);```
 19. Run **node app.js** command in terminal
