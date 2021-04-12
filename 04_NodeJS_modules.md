@@ -1,25 +1,28 @@
 # Node modules examples (OS, FS, Path)
-1. Go to [nodejs modules] https://nodejs.org/api/modules.html
+1. Go to [nodejs modules](https://nodejs.org/api/modules.html)
 1. Create **node-modules.js** file in the root directory
 1. **OS module examples**
 1. Type ```const os = require('os');```
-1. Type ```js 
+1. Type ```javascript 
     let totalMem = os.totalmem; 
     let freMem = os.freemem;
-1. Type ```js
+    ```
+1. Type ```javascript
     console.log(`Total Memoty: ${totalMem}`);
     console.log(`Free Memoty: ${freMem}`);
+    ```
 1. Run **node node-modules.js**
 
 
 ### File System modules examples**
 1. Comment out previous code
 1. Type ```const fs = require('fs');```
-1. Type ```js
+1. Type ```javascript
     let files = fs.readdirSync('./');
     console.log(files);
+    ```
 1. Run **node node-modules.js**
-1. Type ```js
+1. Type ```javascript
     let file = fs.readFile(
     // relative path to file
     `./app.js`,
@@ -32,16 +35,18 @@
     }
   );
   console.log(file)
+  ```
 1. Comment out previous code
 1. Run **node node-modules.js**
 
 
 ### Path Module examples**
-1. Type ```js
+1. Type ```javascript
     const path = require("path");
     console.log(path);
     let pathObj = path.parse('/app.js');
     console.log(pathObj);
+    ```
 1. Comment out previous code
 1. Run **node node-modules.js**
 

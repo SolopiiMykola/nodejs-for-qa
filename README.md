@@ -1,4 +1,4 @@
-# Workshop: NodeJS for QA Workshop
+# NodeJS for QA Workshop
 
 In 2021, almost every component of JS applications is NodeJS. If with JS everything more or less clear, then with NodeJS there can be difficulties. What is NodeJS for, how does it work, what value does it give to developers, QA and end users? You will learn all this during our workshop.
 
