@@ -30,10 +30,11 @@ This workshop starts with a short introduction into the subject matter in form o
 
 ## Slides 🖥
 
-[Presentation]: (https://docs.google.com/presentation/d/1urqsBWoN5hfjtfnvYctL7II_p7_uzZwaxWPbF0GlxcY/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1urqsBWoN5hfjtfnvYctL7II_p7_uzZwaxWPbF0GlxcY/edit?usp=sharing)
 
 ## Disclaimer
 All code and command examples assume that you are using a MacBook. Usually they should also work on a PowerShell on Windows. For anyone who has problems running certain things with Windows please create an issue or provide a PR (see below).
 
 ## Contributing
 Any kind suggestion to this workshop is welcome. If you have an idea, suggestion or improvements please create an issue or even better create a pull request.
+[Feedback form](https://docs.google.com/forms/d/1271yr46q-RWCb8r7pHBhkml4bizhBD09qQ5B4kIKSjY)
