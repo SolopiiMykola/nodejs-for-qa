@@ -4,8 +4,8 @@
 3. Type values into suggested fields
 4. Save changes 
 5. Run **npm i testcafe** in terminal
-6. Run  **npm uninstall testcafe** to remove package
-7. Run **npm update testcafe** to update package version
+6. Run **npm update testcafe** to update package version
+7. Run  **npm uninstall testcafe** to remove package
 8. Run **npm publish** to publish package in npm registry
 
 # yarn

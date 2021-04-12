@@ -1,7 +1,8 @@
 # Node modules examples (OS, FS, Path)
 1. Go to [nodejs modules](https://nodejs.org/api/modules.html)
 1. Create **node-modules.js** file in the root directory
-1. **OS module examples**
+
+1. ## OS module examples
 1. Type ```const os = require('os');```
 1. Type: 
     ```js
@@ -14,7 +15,7 @@
 1. Run **node node-modules.js**
 
 
-### File System modules examples**
+### File System modules examples
 1. Comment out previous code
 2. Type ```const fs = require('fs');```
 3. Type 
@@ -41,7 +42,7 @@
 7. Run **node node-modules.js**
 
 
-### Path Module examples**
+### Path Module examples
 1. Type: 
     ```js
     const path = require("path");
