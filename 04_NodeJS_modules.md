@@ -16,13 +16,13 @@
 
 ### File System modules examples**
 1. Comment out previous code
-1. Type ```const fs = require('fs');```
-1. Type 
+2. Type ```const fs = require('fs');```
+3. Type 
     ```js
     let files = fs.readdirSync('./');
     console.log(files);
-1. Run **node node-modules.js**
-1. Type 
+4. Run **node node-modules.js**
+5. Type: 
     ```js
     let file = fs.readFile(
     // relative path to file
@@ -33,22 +33,21 @@
     function(err, content) {
         if (err) console.log('Error', err)
         else console.log('Content', content);
-    }
-  );
-  console.log(file)
+        }
+    );
+    console.log(file)
 
-1. Comment out previous code
-1. Run **node node-modules.js**
+6. Comment out previous code
+7. Run **node node-modules.js**
 
 
 ### Path Module examples**
-1. Type 
+1. Type: 
     ```js
     const path = require("path");
     console.log(path);
     let pathObj = path.parse('/app.js');
     console.log(pathObj);
-    ```
 1. Comment out previous code
 1. Run **node node-modules.js**
 
