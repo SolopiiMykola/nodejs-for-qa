@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-for-qa",
+  "version": "1.0.0",
+  "description": "Some fun description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M. Solopii",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "testcafe": "^1.14.0"
+  }
+}
